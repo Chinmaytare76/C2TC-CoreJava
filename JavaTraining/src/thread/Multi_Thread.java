@@ -1,4 +1,4 @@
-package thread;
+apackage thread;
 
 public class Multi_Thread {
 

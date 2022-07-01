@@ -6,7 +6,7 @@ public class Example2 {
 		// TODO Auto-generated method stub
  try {
 	 int data = 50/0;
-	 System.out.println("civided by zero");
+	 System.out.println("divided by zero");
 	 
  }
  catch(Exception e)
